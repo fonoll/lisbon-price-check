@@ -1,0 +1,11 @@
+{
+  "type": "linear_v0_area_only",
+  "w_scaled": 396.70591777509367,
+  "b_scaled": 733.251056104558,
+  "x_mean": 109.78294655190734,
+  "x_std": 62.74538137556209,
+  "target_units": "thousand_EUR",
+  "test_mae_k": 228.78030942693067,
+  "test_mape_pct": 36.23737599436871,
+  "note": "loses to median baseline (36.2% vs 33.5% MAPE); kept as reference v0"
+}
